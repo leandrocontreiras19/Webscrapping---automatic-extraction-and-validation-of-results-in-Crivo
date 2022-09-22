@@ -1,4 +1,4 @@
-# Webscrapping---extract-validation
+# Webscrapping---automatic extraction and validation
 
 👋 Hi, I’m @leandrocontreiras19
 👀 I’m interested in learning programming language and expose my projects to the community.
