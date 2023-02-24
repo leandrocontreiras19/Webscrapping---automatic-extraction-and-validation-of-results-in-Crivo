@@ -2,7 +2,7 @@
 
 https://user-images.githubusercontent.com/105053264/219810655-6f36ce6d-2cf9-4d95-b849-8bddbf48207c.mp4
 
-# Webscrapping---automatic extraction and validation
+# Webscrapping - Automatic Extraction and Validation
 
 👋 Hi, I’m @leandrocontreiras19
 👀 I’m interested in learning programming language and expose my projects to the community.
